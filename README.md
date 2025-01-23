@@ -6,6 +6,8 @@ this is my holder for clean recipes its using an old schema that doesnt account 
 ## what needs to be done
 edit the ingredient schema
 
+
+
 ## connected projects 
- [angular frontend GUI](https://github.com/Lilahjane/organize_dependencies).
+[angular frontend GUI](https://github.com/Lilahjane/organize_dependencies)<br/>
 [python scrapper API](https://github.com/Lilahjane/scraperapi)
